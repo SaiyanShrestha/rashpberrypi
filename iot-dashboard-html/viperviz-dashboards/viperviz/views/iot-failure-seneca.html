@@ -1016,8 +1016,11 @@ function image(thetype,mess) {
 		text = text + ']';
 		
 		//console.log("Text============",text);
-		
+		try{
 		obj=JSON.parse(text);
+		}catch(error){
+		  return;
+		}
 		
 		if (i==0){
 		 createPie(obj,"pie", marr[1]);
