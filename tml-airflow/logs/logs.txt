@@ -8201,3 +8201,4 @@ Already up to date.
 [INFO 2024-10-10_20:09:38] TML Solution Studio: git push Status for project mytssprojecct_sujanshrestha_-4c74: Everything up-to-date
 [INFO 2024-10-10_20:46:13] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-mytssprojecct_sujanshrestha_-4c74.py
 [INFO 2024-10-10_20:46:47] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-mytssprojecct_sujanshrestha_-4c74.py
+[INFO 2024-10-10_20:47:18] Visualization DAG in tml_system_step_7_kafka_visualization_dag-mytssprojecct_sujanshrestha_-4c74.py
