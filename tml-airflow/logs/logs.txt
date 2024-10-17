@@ -8214,3 +8214,4 @@ Already up to date.
 [INFO 2024-10-17_19:42:16] TML Solution Studio: git add . Status: 
 [INFO 2024-10-17_19:42:16] TML Solution Studio: git commit -a Status for project mytssprojectsaiyanshresthacyber-4c74: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-10-17_19:42:17] TML Solution Studio: git push Status for project mytssprojectsaiyanshresthacyber-4c74: Everything up-to-date
+[INFO 2024-10-17_19:52:32] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-mytssprojectsaiyanshresthacyber-4c74.py
